@@ -4,10 +4,10 @@ pragma solidity ^0.8.0
 
 pragma solidity ^0.8.0;
 
-import "../node_modules/openzeppelin-solidity/contracts/utils/Address.sol";
-import "../node_modules/openzeppelin-solidity/contracts/utils/Context.sol";
-import "../node_modules/openzeppelin-solidity/contracts/utils/math/SafeMath.sol";
-import "../node_modules/openzeppelin-solidity/contracts/token/ERC20/ERC20.sol";
+import "@openzeppelin/contracts/utils/Address.sol";
+import "@openzeppelin/contracts/utils/Context.sol";
+import "@openzeppelin/contracts/utils/math/SafeMath.sol";
+import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 
 
 /**
